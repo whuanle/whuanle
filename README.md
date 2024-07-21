@@ -12,14 +12,16 @@
 
 <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=whuanle" /> </div>
 
-<table frame="void">
+<table frame="void" style="display:flex;justify-content:center;" border="0">
     <tr>
         <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whuanle&layout=compact&langs_count=8&hide=html,css&exclude_repo=Shopsnweb-xf"/></td>
         <td ><img src="https://github-readme-stats.vercel.app/api?username=whuanle"/></td>
-        <td> <img src="https://github-readme-streak-stats.herokuapp.com/?user=whuanle" /></td>
     </tr>
 </table>
 
+
+
+![Metrics](https://metrics.lecoq.io/whuanle?template=classic&habits=1&followup=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&habits=false&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&habits.charts.type=classic&habits.trim=false&habits.languages.limit=8&habits.languages.threshold=0%25&followup=false&followup.sections=repositories&followup.indepth=false&followup.archived=true&config.timezone=Asia%2FShanghai)
 
 
 
@@ -59,44 +61,52 @@ https://ex.whuanle.cn/
 
 
 
-<table frame="void">
+<table frame="void" style="display:flex;justify-content:center;" border="0">
     <tr>
         <td><a href="https://github.com/whuanle/maomi"><img src="https://github-readme-stats.vercel.app/api/pin/?username=whuanle&repo=maomi" /></a></td>
         <td><a href="https://github.com/whuanle/maomi_doc"><img src="https://github-readme-stats.vercel.app/api/pin/?username=whuanle&repo=maomi_doc" /></a></td>
-        <td><a href="https://github.com/whuanle/Maomi.Mapper"><img src="https://github-readme-stats.vercel.app/api/pin/?username=whuanle&repo=Maomi.Mapper" /></a></td>
     </tr>   
     <tr>
         <td><a href="https://github.com/whuanle/Maomi.MQ"><img src="https://github-readme-stats.vercel.app/api/pin/?username=whuanle&repo=Maomi.MQ" /></a></td>
         <td><a href="https://github.com/whuanle/learnrabbitmq"><img src="https://github-readme-stats.vercel.app/api/pin/?username=whuanle&repo=learnrabbitmq" /></a></td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/whuanle/Maomi.Mapper"><img src="https://github-readme-stats.vercel.app/api/pin/?username=whuanle&repo=Maomi.Mapper" /></a></td>
         <td><a href="https://github.com/whuanle/learnkafka"><img src="https://github-readme-stats.vercel.app/api/pin/?username=whuanle&repo=learnkafka" /></a></td>
     </tr>
     <tr>
         <td><a href="https://github.com/whuanle/kubernetes"><img src="https://github-readme-stats.vercel.app/api/pin/?username=whuanle&repo=kubernetes" /></a></td>
         <td><a href="https://github.com/whuanle/istio_book"><img src="https://github-readme-stats.vercel.app/api/pin/?username=whuanle&repo=istio_book" /></a></td>
-        <td><a href="https://github.com/whuanle/csharp_thread"><img src="https://github-readme-stats.vercel.app/api/pin/?username=whuanle&repo=csharp_thread" /></a></td>
     </tr>
     <tr>
+        <td><a href="https://github.com/whuanle/csharp_thread"><img src="https://github-readme-stats.vercel.app/api/pin/?username=whuanle&repo=csharp_thread" /></a></td>
         <td><a href="https://github.com/whuanle/Maomi.TTS"><img src="https://github-readme-stats.vercel.app/api/pin/?username=whuanle&repo=Maomi.TTS" /></a></td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/whuanle/CsharpExpression"><img src="https://github-readme-stats.vercel.app/api/pin/?username=whuanle&repo=CsharpExpression" /></a></td>
         <td><a href="https://github.com/whuanle/FreeRedisI18n"><img src="https://github-readme-stats.vercel.app/api/pin/?username=whuanle&repo=FreeRedisI18n" /></a></td>
     </tr>
     <tr>
         <td><a href="https://github.com/whuanle/CZGL.CodeAnalysis"><img src="https://github-readme-stats.vercel.app/api/pin/?username=whuanle&repo=CZGL.CodeAnalysis" /></a></td>
         <td><a href="https://github.com/whuanle/CZGL.SystemInfo"><img src="https://github-readme-stats.vercel.app/api/pin/?username=whuanle&repo=CZGL.SystemInfo" /></a></td>
-        <td><a href="https://github.com/whuanle/FreeRedisI18n"><img src="https://github-readme-stats.vercel.app/api/pin/?username=whuanle&repo=FreeRedisI18n" /></a></td>
     </tr>
     <tr>
+        <td><a href="https://github.com/whuanle/FreeRedisI18n"><img src="https://github-readme-stats.vercel.app/api/pin/?username=whuanle&repo=FreeRedisI18n" /></a></td>
         <td><a href="https://github.com/whuanle/CZGL.AliIoTClient"><img src="https://github-readme-stats.vercel.app/api/pin/?username=whuanle&repo=CZGL.AliIoTClient" /></a></td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/whuanle/goioc"><img src="https://github-readme-stats.vercel.app/api/pin/?username=whuanle&repo=goioc" /></a></td>
         <td><a href="https://github.com/whuanle/csharp_aot_golang"><img src="https://github-readme-stats.vercel.app/api/pin/?username=whuanle&repo=csharp_aot_golang" /></a></td>
     </tr>
     <tr>
         <td><a href="https://github.com/whuanle/ddns-tencent"><img src="https://github-readme-stats.vercel.app/api/pin/?username=whuanle&repo=ddns-tencent" /></a></td>
         <td><a href="https://github.com/whuanle/goaspcore"><img src="https://github-readme-stats.vercel.app/api/pin/?username=whuanle&repo=goaspcore" /></a></td>
-        <td><a href="https://github.com/whuanle/csharp_aot_golang"><img src="https://github-readme-stats.vercel.app/api/pin/?username=whuanle&repo=csharp_aot_golang" /></a></td>
     </tr>
     <tr>
+        <td><a href="https://github.com/whuanle/csharp_aot_golang"><img src="https://github-readme-stats.vercel.app/api/pin/?username=whuanle&repo=csharp_aot_golang" /></a></td>
         <td><a href="https://github.com/whuanle/CZGL.AOP"><img src="https://github-readme-stats.vercel.app/api/pin/?username=whuanle&repo=CZGL.AOP" /></a></td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/whuanle/CZGL.UIBlazor"><img src="https://github-readme-stats.vercel.app/api/pin/?username=whuanle&repo=CZGL.UIBlazor" /></a></td>
         <td><a href="https://github.com/whuanle/CZGL.Flow"><img src="https://github-readme-stats.vercel.app/api/pin/?username=whuanle&repo=CZGL.Flow" /></a></td>
     </tr>
