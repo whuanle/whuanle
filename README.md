@@ -9,24 +9,12 @@
 </div>
 <br />
 
-
-<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=whuanle" /> </div>
-
-<table frame="void" style="display:flex;justify-content:center;" border="0">
-    <tr>
-        <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whuanle&layout=compact&langs_count=8&hide=html,css&exclude_repo=Shopsnweb-xf"/></td>
-        <td ><img src="https://github-readme-stats.vercel.app/api?username=whuanle"/></td>
-    </tr>
-</table>
-
 #### Languages:
 
 ![CSharp](https://img.shields.io/badge/CSharp-2e2960?logo=CSharp&logoColor=white&style=flat-square)
 ![React](https://img.shields.io/badge/React-51adc2?logo=React&logoColor=white&style=flat-square)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?logo=TypeScript&logoColor=white&style=flat-square)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=333&style=flat-square)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=HTML5&logoColor=fff&style=flat-square)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=CSS3&logoColor=fff&style=flat-square)
 
 #### Framework & Tools:
 
@@ -47,6 +35,16 @@
 ![Linux](https://img.shields.io/badge/Linux-343846?logo=Linux&logoColor=white&style=flat-square)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-e95420?logo=Ubuntu&logoColor=white&style=flat-square)
 ![RaspberryPi](https://img.shields.io/badge/RaspberryPi-cd2355?logo=RaspberryPi&logoColor=white&style=flat-square)
+
+
+<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=whuanle" /> </div>
+
+<table frame="void" style="display:flex;justify-content:center;" border="0">
+    <tr>
+        <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whuanle&layout=compact&langs_count=8&hide=html,css&exclude_repo=Shopsnweb-xf"/></td>
+        <td ><img src="https://github-readme-stats.vercel.app/api?username=whuanle"/></td>
+    </tr>
+</table>
 
 ### ebook or course:
 
